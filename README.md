@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Rufai Oluwasegun ,I'm a mobile application Developer
+
 <!--
 **Xheghun/xheghun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
