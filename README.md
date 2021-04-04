@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about Mobile Development and EDM :)
 - 📫 How to reach me: twitter https://www.twitter.com/xheghun
 - 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: I don't have a side project :)
+<!-- - ⚡ Fun fact: --> 
